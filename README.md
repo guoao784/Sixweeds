@@ -19,7 +19,7 @@ Fig 2. provides an overview of the collection and labeling process for the Sixwe
 ### Citation
 ```
 1:@article{
-  title={Research on Weed Detection Based on Improved GELAN in Real-World Scenarios},
+  title={Weed Detection Model Based on Improved GELAN and Construction of Multi-Scene Weed Dataset},
   author={Ao Guo, Sensen Song, Zhenhong Jia, Jianyi Wang, Jiajia Wang and Gang Zhou},
   journal={2025 IEEE International Conference on Acoustics, Speech, and Signal Processing},
   year={2024}
