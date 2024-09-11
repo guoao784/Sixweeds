@@ -1,7 +1,7 @@
 # Sixweeds 
 
-#### Full Paper
-The Sixweeds dataset includes six common weed species in corn and cotton fields, as shown in Fig 1.   Images were captured with a vivo Z5 smartphone (4096×3027 resolution, 4:3 aspect ratio) mounted on a tripod 400-600 mm from the weeds at 45-90 degree angles.   From over 5,000 field images, 2,118 were selected.   Experts manually classified these images by weed species based on texture, labeled them using LabelImg in Pascal VOC format, and converted them to txt format for training.
+#### Full Paper - [Weed Detection Model Based on Improved GELAN and Construction of Multi-Scene Weed Dataset]()
+The Sixweeds dataset includes six common weed species in corn and cotton fields, as shown in figure.   Images were captured with a vivo Z5 smartphone (4096×3027 resolution, 4:3 aspect ratio) mounted on a tripod 400-600 mm from the weeds at 45-90 degree angles.   From over 5,000 field images, 2,118 were selected.   Experts manually classified these images by weed species based on texture, labeled them using LabelImg in Pascal VOC format, and converted them to txt format for training.
 <div align="center">
     <a href="./">
         <img src="./screens/figure1.png" width="79%"/>
