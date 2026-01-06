@@ -36,7 +36,8 @@ It provides an overview of the collection and labeling process for the Sixweeds 
 }
 ```
 ```
-Paper is currently under review
+Paper is currently under review.
+```
 ```
 /2:@article{2025
   title={RLCFE-Net: A reparameterization large convolutional kernel feature extraction network for weed detection in multiple scenarios},
@@ -44,11 +45,14 @@ Paper is currently under review
   journal={Expert Systems with Applications},
   year={2025}
 }
-
 ```
-/2:@article{2024
+```
+https://doi.org/10.1016/j.eswa.2025.126941
+```
+```
+/3:@article{2024
   title={A lightweight weed detection model with global contextual joint features},
-  author={Ao Guo, Zhenhong Jia, Jianyi Wang, Jiajia Wang , Gang Zhou, Baoquan Ge and Wei Chen},
+  author={Ao Guo, Zhenhong Jia, Jiajia Wang , Gang Zhou, Baoquan Ge and Wei Chen},
   journal={Engineering Applications of Artificial Intelligence},
   year={2024}
 }
