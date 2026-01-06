@@ -30,13 +30,13 @@ It provides an overview of the collection and labeling process for the Sixweeds 
 ```
 1:@article{
   title={Weed Detection Model Based on Improved GELAN and Construction of Multi-Scene Weed Dataset},
-  author={Ao Guo, Sensen Song, Zhenhong Jia, Jianyi Wang, Jiajia Wang and Gang Zhou},
-  journal={2025 IEEE International Conference on Acoustics, Speech, and Signal Processing},
-  year={2024}
+  author={Ao Guo, Huawei zhang, Yang Lu, Jianjun Li, Zhiyong She, Wenqing Hou, Yuantao Hua, Jianxing Yu, and Kailiang Chen.},
+  journal={2026 International Conference on Artificial Intelligence and Control(CAIC 2026)},
+  year={2026}
 }
 ```
 ```
-Paper is currently under review. ;)
+Paper is currently under review
 ```
 ```
 /2:@article{2024
